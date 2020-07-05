@@ -1,0 +1,6 @@
+## Cloud Watch Event
+- schedule:
+    name: billing_event
+    description: 'billing_event_schedule'
+    rate: cron(0 9 * * ? *)
+    enabled: true
