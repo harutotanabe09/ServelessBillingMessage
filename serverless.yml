@@ -17,6 +17,6 @@ functions:
     handler: handler.lambda_handler
     events: ${file(./service/cloudwatchevent.yml)}
     environment:
-      slack_url: https://hooks.slack.com/services/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
+      slack_url: https://hooks.slack.com/services/XXXXXXXXXX
     tags:
       foo: bar

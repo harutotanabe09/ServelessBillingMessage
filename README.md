@@ -28,3 +28,4 @@ serverless deploy
 Visual Studio Code And Plugin
 
 https://marketplace.visualstudio.com/items?itemName=ThreadHeap.serverless-ide-vscode
+https://github.com/serverless/examples/blob/master/aws-node-puppeteer/README.md
